@@ -1,0 +1,6 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+MathChampionship,org.example,Main,7,0,0,0,3,0,2,0,2,0
+MathChampionship,org.example,StudentScore,23,15,0,0,12,6,5,3,5,3
+MathChampionship,org.example,MathChampionship,41,52,5,9,17,18,8,8,5,4
+MathChampionship,org.example,Prize,0,27,0,0,0,2,0,1,0,1
+MathChampionship,org.example,StudentNotFoundException,0,4,0,0,0,2,0,1,0,1
